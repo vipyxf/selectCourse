@@ -1,0 +1,51 @@
+*{margin:0 auto;}     /* 上下边距为0，居中 */
+  .header{height:120px;
+                  width:100%;}
+  .pagebody{height:400px;
+                       width:100%;
+			           margin-top:5px;}
+  .left{width:55%;
+            height:400px;
+		    float:left;}
+  .right{width:45%;
+               height:400px;
+		       float:right;}
+  .footer{width:auto;
+                 height:110px;
+		         margin-top:5px;}
+  .p1{font-family: 楷体;
+          font-size: 50px;
+          color:#122120;
+          margin-top: 30px;
+          letter-spacing:10px;   /* 每个字体间隔30px */
+          matgin-left:20px;
+          text-indent:10px;    /*首行缩进*/
+          }
+  .p2{text-align: center;
+           margin-top: 30px;
+           font-size: 20px;
+           font-family: 楷体;
+           color:white;}
+  .p3{margin-top: 80px;
+           margin-left:100px; 
+           font-family: 楷体;
+           font-size: 20px;
+           color:white;}
+  .p4{margin-top: 50px;
+           margin-left:100px;
+           font-family: 楷体;
+           font-size: 20px; 
+           color:white;}
+  .a1{margin-left: 20px;
+          text-decoration: none;
+          color:white;}
+  .input1{margin-left: 50px;
+                 width:70px;
+                 height:40px;
+                 color:blue;
+                 font-family: 楷体;
+                 font-size: 20px;}
+  .input2{height:20px;
+                  width:150px;}
+  .img1{margin-left: 80px;
+              margin-top: 50px;}

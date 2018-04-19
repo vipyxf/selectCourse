@@ -1,0 +1,95 @@
+*{
+margin:0px;
+padding:0px;
+}
+.head {
+	width: 100%;
+	height: 100px;
+	z-index: 0;
+}
+
+.head_left {
+	width: 60%;
+	height: 100px;
+	float: left;
+	z-index: 1;
+	background-image: url("../photo/b10.jpg");
+	background-size: 100% 100%;
+}
+
+.head_right {
+	width: 40%;
+	height: 100px;
+	float: right;
+	margin-top: 0;
+	z-index: 1;
+	background-image: url("../photo/b10.jpg");
+	background-size: 100% 100%;
+}
+
+.center {
+	width: 100%;
+	height: 520px;
+}
+
+.left {
+	width: 18%;
+	height: 520px;
+	float: left;
+}
+
+.right {
+	width: 82%;
+	height: 520px;
+	float: right;
+}
+
+#foot {
+	background: red;
+	text-align: center;
+	width: 100%;
+	height: 100px;
+	background-image: url("../photo/b1.jpg");
+	background-size: 100% 100%;
+}
+
+iframe {
+	width: 100%;
+	height: 520px;
+	background-image: url("../photo/b10.jpg");
+	background-size: 100% 100%;
+}
+
+.p1 {
+	font-family: ¿¬Ìå;
+	font-size: 40px;
+	color: #666088;
+	padding-top: 12px;
+	letter-spacing: 15px;
+	margin-top:12px;
+	
+}
+.p2{text-align: center;
+           margin-top: 30px;
+           font-size: 20px;
+           font-family: ¿¬Ìå;
+           color:white;}
+.p_top {
+	font-size: 22px;
+	font-family: "¿¬Ìå";
+	padding-right: 20px;
+	color: #591878;
+	padding-top:20px;
+}
+
+.p_top a {
+	color: #bd82af;
+}
+
+.left_shang {
+   margin-top:0px;
+	width: 100%;
+	height: 70px;
+	background: #1974a1;
+	font-family:"Î¢ÈíÑÅºÚ"
+}
